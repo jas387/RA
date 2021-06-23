@@ -1,0 +1,16 @@
+
+div#inputs {
+	display: inline-grid;
+	width: -webkit-fill-available;
+	border-style: groove;
+}
+
+.inputs {
+	margin: 0.5%;
+	font-size: larger;
+}
+
+p {
+	text-align: -webkit-center;
+	font-size: larger;
+}
