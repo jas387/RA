@@ -1,6 +1,6 @@
-*RA: Record Audio*
-**simple audio record**
-*Goals*
+#RA: Record Audio
+##Simple audio record
+#Goals
 - [ ] get user permission.
 - [ ] start.
 - [ ] pause.
